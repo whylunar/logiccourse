@@ -1,0 +1,5 @@
+﻿  course.cpp
+L:\Лабы2\Логика\course\course\course.cpp(57,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+L:\Лабы2\Логика\course\course\course.cpp(93,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+L:\Лабы2\Логика\course\course\course.cpp(151,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  course.vcxproj -> L:\Лабы2\Логика\course\Debug\course.exe
